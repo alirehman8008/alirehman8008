@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](https://github.com/alirehman8008/Ali_Rehman/blob/main/Banner.png.png)
+![logo](https://github.com/alirehman8008/alirehman8008/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ali Rehman</h1>
 <h3 align="center">A Dedicated Machine Learning Deep Learning and Computer vision Expert.</h3>
 
